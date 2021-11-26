@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login-no-user-pass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a94802c-58da-42b1-8d76-452d1dcaf7cf</testCaseGuid>
+</TestCaseEntity>
